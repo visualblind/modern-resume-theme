@@ -244,9 +244,8 @@ content:
       - Software:
       Active Directory, PowerShell, CA, DNS (BIND/Microsoft), DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
       SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      
+      ![MCSA](/images/Microsoft_MCSA_TRunyard_400px.jpg "MCSA")
 
 #  - title: Skills2 # Title for the section
 #    layout: list # Type of content section (list/text)
