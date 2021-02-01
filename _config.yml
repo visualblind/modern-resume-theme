@@ -226,9 +226,9 @@ content:
             icon: fas fa-server
             url: https://sysinfo.io/active-directory-migration-2003-2008-r2/
         quote: >
-          Planned, prepared and implemented an Active Directory migration from forest level 2003 to 2008R2 along with Exchange mailbox migration from 2007 to 2010.
+          Planned, prepared and implemented an Active Directory interforest migration from domain functional level 2003 to 2008R2 along with Exchange mailbox migration from 2007 to 2010.
         description: | # this will include new lines to allow paragraphs
-          A few years ago in a past life I performed an Active Directory migration from a 2003 functional level to 2008 R2 with ADMT 3.2 accompanied with an Exchange Server 2007 to 2010 migration over a single weekend.
+          A few years ago in a past life I got to perform an Active Directory migration from a 2003 functional level to 2008 R2 with ADMT 3.2 accompanied with an Exchange Server 2007 to 2010 migration over a single weekend. I thoroughly documented every step of the process and it's available at the link above. 
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
