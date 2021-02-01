@@ -233,23 +233,23 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-     - Certifications:
-     MCSA, Network+, A+
-     - General:
-     System Administration (x86_64), Network Administration (LAN/WAN), Linux Administration, Shell scripting (Bash/sh, Python), Batch (csh) scripting (Wintel), Amazon Web Services AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS, Bugchecking & root cause analysis (sysinternals)
-     - Server:
-     Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vSphere/vCenter 4.x-6.x, Citrix XenServer, KVM
-     - Client:
-     Windows 3.x/NT/2K/XP/7/8/10, DOS, Apple OSX
-     - Software:
-     Active Directory, PowerShell, CA, DNS (BIND/Microsoft), DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
-     SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
+      - Certifications:
+      MCSA, Network+, A+
+      - General:
+      System Administration (x86_64), Network Administration (LAN/WAN), Linux Administration, Shell scripting (Bash/sh, Python), Batch (csh) scripting (Wintel), Amazon Web Services AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS, Bugchecking & root cause analysis (sysinternals)
+      - Server:
+      Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vSphere/vCenter 4.x-6.x, Citrix XenServer, KVM
+      - Client:
+      Windows 3.x/NT/2K/XP/7/8/10, DOS, Apple OSX
+      - Software:
+      Active Directory, PowerShell, CA, DNS (BIND/Microsoft), DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
+      SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
 
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
 
-  - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
+  - title: Skills2 # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         #title:
