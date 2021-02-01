@@ -220,7 +220,7 @@ content:
         link_text: sysinfo.io/active-directory-migration-2003-2008-r2
         additional_links:
           - title:  Active Directory Migration
-            icon: fab fa-exchange-alt
+            icon: fas fa-exchange-alt
             url: https://sysinfo.io/active-directory-migration-2003-2008-r2/
           - title:  Project site
             icon: fas fa-server
