@@ -96,6 +96,31 @@ content:
           - Provide networking diagnostics (IP network routing, DNS, DHCP)
           - Perform TCP/IP, LAN/WAN, network and related troubleshooting diagnostics and repair
 
+      - layout: left
+        title: SchoolsFirst Federal Credit Union
+        link: https://www.schoolsfirstfcu.org/
+        link_text: schoolsfirstfcu.org
+        sub_title: Systems Administrator I
+        caption: August 2017 - March 2018
+        quote: >
+          Support complex heavily virtualized VMware infrastructure with a focus in key functional areas including applications, operating systems, servers, storage and virtualization.
+        description: | # this will include new lines to allow paragraphs
+          - Manage corporate SSL/TLS certificates/keys via Venafi PKI (public key infrastructure) software
+          - Support complex infrastructure with a focus in key functional areas including applications, operating systems, servers, storage and virtualization
+          - Microsoft Active Directory, Microsoft Exchange, Microsoft IIS, Microsoft SQL, Microsoft Skype for Business
+          - Install and configure systems and virtual machines to support infrastructure and applications on VMWare vSphere 6.x technologies
+          - Coordinate with vendors for technical support and upgrades
+          - Submit and fulfill ServiceNow ITSM service requests, respond to incidents and problems
+          - Perform daily systems monitoring with Solar Winds NPM, Splunk
+          - Verify the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of after-hours maintenance
+          - Gather and analyze Wintel/RHEL and IBM FileNet application log files
+          - Provide second tier support including investigation and troubleshooting
+          - Perform regular systems hardening to maintain security standards
+          - Schedule, test, stage, deploy Wintel updates for all prod virtual machines with IBM BigFix
+          - Support Credit Union specific backend and general back office applications
+          - IBM Tivoli Storage Manager backup software administration
+          - Cisco UCS B/C Class, HP Non-Stop, IBM P Series, Nutanix
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -142,7 +167,7 @@ content:
       ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
