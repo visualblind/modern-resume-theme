@@ -242,12 +242,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           - System Administration (x86_64)
           - Network Administration (LAN/WAN)
-          - AWS (IAM, EC2, CloudWatch, VPC, S3, RDS, SES, Route53)
+          - AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch)
           - Bugchecking & root cause analysis (sysinternals)
           - VMware vSphere/vCenter/ESXi 5.x-6.x
           - Active Directory
-          - Windows Server (2003-2019)
-          - Shell scripting (Bash/Python)
+          - Windows Server (2000-2019)
+          - Shell scripting (Bash/sh, Python)
           - Batch (csh) scripting (Wintel)
           - Microsoft PowerShell
           - Linux Administration
@@ -255,15 +255,14 @@ content:
           - MCSA, Network+, A+
           - Certifications: MCSA, Network+, A+
           - General:
-            Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route 53,billing and cost calculation), Active Directory, SMTP, SAN, DNS, WINS, DHCP, Terminal Services/Remote Desktop Services, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence/JIRA/BitBucket/HipChat/Trello)
-          - Client OS:
-            DOS, Ubuntu, Apple OSX, Windows NT/XP/7/8/10
-        Server OS:
-          - Windows Server (2003, 2008, 2012, 2016), Debian/Ubuntu, RedHat/CentOS/Fedora, VMWare ESXi/vCenter/vSphere 4x-6x
-        Software (NT):
-          - AWS Powershell, Active Directory, Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix XenServer, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe/Diagnostic Manager/Fragmentation Analyzer,  Internet Information Services (IIS), Microsoft SQL Server 2000-2016 (exp, std, ent), RAS, Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication, Microsoft System Center Configuration Manager (SCCM) 2012
-        Software (Linux):
-          - Nagios & NRPE, Zenoss, PRTG, Postfix, Ansible, Apache, NGINX, FPM-CGI, MySQL, MariaDB, PostgreSQL, SSH, EC2 API tools, Docker, Kubernetes, SolarWinds NPM, Syslog, bash, sysVinit, Systemd, sed, awk
+            Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route53), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello)
+          - Client:
+            Windows 3.x/NT/2K/XP/7/8/10, DOS, Apple OSX
+          - Server:
+            Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vCenter/vSphere 4.x-6.x, Citrix XenServer, KVM
+          - Software:
+            Active Directory, PowerShell, DNS, DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
+            SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
 
 
   - title: A Little More About Me
