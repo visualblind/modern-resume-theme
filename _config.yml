@@ -254,10 +254,10 @@ content:
           - DNS (BIND/Microsoft)
           - MCSA, Network+, A+
           - Certifications: MCSA, Network+, A+
-        **General:
-          - Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route 53,billing and cost calculation), Active Directory, SMTP, SAN, DNS, WINS, DHCP, Terminal Services/Remote Desktop Services, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence/JIRA/BitBucket/HipChat/Trello)
-        >Client OS:
-          - DOS, Ubuntu, Apple OSX, Windows NT/XP/7/8/10
+          - General:
+            Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route 53,billing and cost calculation), Active Directory, SMTP, SAN, DNS, WINS, DHCP, Terminal Services/Remote Desktop Services, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence/JIRA/BitBucket/HipChat/Trello)
+          - Client OS:
+            DOS, Ubuntu, Apple OSX, Windows NT/XP/7/8/10
         Server OS:
           - Windows Server (2003, 2008, 2012, 2016), Debian/Ubuntu, RedHat/CentOS/Fedora, VMWare ESXi/vCenter/vSphere 4x-6x
         Software (NT):
