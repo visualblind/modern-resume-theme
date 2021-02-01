@@ -74,9 +74,7 @@ content:
         title: Robert Half
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: |
-        Systems Administrator
-        (contract)
+        sub_title: Systems Administrator
         caption: November 2018 - December 2018
         quote: >
           Provided capacity to streamline and refine existing standard procedures including automation of end user Office365 email signature generation and deployment, reduce capital expenditure in AWS cloud, and focus on project-oriented tasks, which affect the whole organization.
@@ -123,38 +121,138 @@ content:
           - IBM Tivoli Storage Manager backup software administration
           - Cisco UCS B/C Class, HP Non-Stop, IBM P Series, Nutanix
 
+      - layout: left
+        title: Rhythm Agency
+        link: https://rhythmagency.com/
+        link_text: rhythmagency.com
+        sub_title: Systems Engineer
+        caption: February 2016 - May 2017
+        quote: >
+          Provide 75% Linux / 25% Windows administration, LAN/WAN/VPN administration, VMware administration, and extensive exposure to Amazon Web Services. Manage company infrastructure while deploying and managing client Microsoft .NET (Umbraco), LAMP and LEMP stacks running Wordpress. Manage high availability (HA) and disaster recovery (DR) solutions with SQL Server Availability Groups and AWS EC2 snapshots.
+        description: | # this will include new lines to allow paragraphs
+          - Consolidated virtual machines on AWS EC2 while migrating from Digital Ocean and various other cloud providers
+          - Managed Linux Ubuntu Server, Windows Server 2008/2016 and Active Directory infrastructure
+          - Decreased OPEX by defining a more manageable storage solution by defining a better snapshot schedule system
+          - Tuned OS, front and back-end business applications: Apache and MySQL on all systems according to system resources (http://bit.ly/2r4e7Xu)
+          - Worked with entire Atlassian product suite (JIRA, Bit Bucket, Confluence, Trello, HipChat)
+          - Created and maintain IT standard operating procedures using Atlassian Confluence
+          - Used as much of AWS's services where possible including EC2, VPC, Route 53, SES in an effort to centralize management of company and infrastructures
+          - Implemented Cloudflare business plans to utilize WAF and CDN for customers who receive high web traffic (250,000+ unique visitors/month)
+          - Manage all infrastructure and client websites Apex score with New Relic SaaS
+          - Researched, recommended and implemented network enhancements that improved system reliability and performance including ISC DNS (BIND) & DHCP
+          - SSL purchasing, implementation and hardening against known vulnerabilities on Linux and Windows servers
+          - Act as point of first contact for all internal Mac and PC issues
+
+      - layout: left
+        title: Sentric
+        link: https://sentrichr.com/
+        link_text: sentrichr.com
+        sub_title: Systems Administrator
+        caption: April 2011 - January 2016
+        quote: >
+          Provide 90% Windows / 10% Linux administration, LAN/WAN/VPN administration, internal VMware administration, and extensive exposure to Amazon Web Services although we eventually migrated away from AWS. Manage company infrastructure while deploying and managing client Microsoft .NET HR-related web portals. Manage disaster recovery (DR) solutions for mission critical and client systems.
+        description: | # this will include new lines to allow paragraphs
+          - Wear multiple hats: Windows and Linux System Engineer, Network Administrator, VMware Administrator, SAN Administrator, Desktop Support
+          - Active Directory domain and Exchange Server migration to Amazon EC2
+          - Plan and implement disaster recovery for mission critical SQL database systems
+          - Ensure sufficient compute and storage capacity for Windows and SQL servers
+          - Monitor SQL server performance using Perfmon metrics and PAL for analysis
+          - Design and implement the Active Directory infrastructure including DNS, DHCP, CA, NPS, GPO, WINS, DFS/DFSS, WSUS, WDS, backups and reporting
+          - Implement Distributed File System Replication
+          - Develop a PHP and MySQL based infrastructure status display
+          - Server monitoring with Nagios configurations and plugins
+          - Maintain LAMP stack including WordPress
+          - SSL certificate process for Windows and Linux servers
+          - Deploy VPN network routing and addressing in Amazon VPC
+          - Deploy SSTP remote access VPN with Group Policy
+          - Setup and deploy virtual machines running in Amazon EC2
+          - Automate Active Directory reporting and user account lockout event notification, internal processes and Outlook MAPI user profiles with PowerShell and Group Policy
+          - Use AWS Tools for Windows PowerShell to automate scheduled AMI backups
+          - Sonicwall IPSEC VPN setup between offices
+          - Maintain Exchange Server email system
+          - Troubleshoot critical performance issues (SQL Server, SAN)
+          - SAN support (firmware and driver updates, partition alignment, cluster size, iSCSI)
+          - Configured WiFi WPA2-Enterprise with NPS RADIUS
+          - Communicate with outside service centers and software vendors
+
+      - layout: left
+        title: Agility Logistics
+        link: https://www.agility.com/
+        link_text: agility.com
+        sub_title: Network Support
+        caption: April 2008 - May 2010
+        quote: >
+          Provide 90% Windows / 10% Linux administration. Travel required between offices in L.A. and O.C. 60/40 split between server/client responsibilities.
+        description: | # this will include new lines to allow paragraphs
+          - Monitor on-site and remote servers for maintenance and troubleshoot issues at the operating system, hardware and network layers utilizing Nagios and HP Insite Mgr
+          - Administer tape backups on and off-site of all business critical servers in the corporate office. Design CA Arcserve efficiently backing up 60 servers which include Exchange, SQL, Oracle, MS and Linux systems.
+          - Install, support, monitor Exchange severs with over 2,000 mailboxes.
+          - Configure and update BIND DNS and Nagios running RHEL operating system according to infrastructure changes.
+          - Write SOP documentation pertaining to the IT infrastructure.
+          - Assist with the planning and implementation of various projects as required.
+          - Build, maintain and support company standard images for client laptop and desktop PCs
+          - Build, configure, support physical and virtual Windows 2000/2003/2008 operating systems on various platforms including: HP Proliant, IBM BladeCenter, System X, Dell PowerEdge, Citrix Xenserver, VMware ESXi
+
+      - layout: left
+        title: Broadcom
+        link: https://www.broadcom.com/
+        link_text: broadcom.com
+        sub_title: L2 Wintel Helpdesk
+        caption: March 2006 - October 2007
+        quote: >
+          Full time contact position. Provide 95% Windows / 5% Linux support, LAN/VPN administration. Originally hired as a Level I Wintel Helpdesk Technician but quickly moved up to Level II. Operated on a team of 8 providing 24/7 support to a Fortune 500 client with a campus supporting over 500 internal employees.
+        description: | # this will include new lines to allow paragraphs
+          - Support world-wide combined total of 7,800+ end users in a closed intranet Windows enterprise environment
+          - Deploy applications using Altiris software and troubleshoot all on-campus end user PC's (mostly Windows)
+          - Move users' stations and routine procedures on Avaya telecom backend
+          - Escalate server issues to Level III Wintel business unit when necessary
+          - Day to day duties include using Remedy helpdesk software for incident resolution and software/ hardware inventory management
+          - Train and coach entry-level technical candidates. Designated as direct support for Directors and VP's in an extremely demanding environment
+          - Prepare and image enterprise x86/x64 systems for end users, installation of all nonstandard hardware, software and configuration
+          - Remotely diagnose and resolve requests utilizing Altiris and other remote tools (Carbon Copy, VNC, RDP)
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Active Directory Migration
+        link: https://sysinfo.io/active-directory-migration-2003-2008-r2/
+        link_text: sysinfo.io/active-directory-migration-2003-2008-r2
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  Active Directory Migration
+            icon: fab fa-exchange-alt
+            url: https://sysinfo.io/active-directory-migration-2003-2008-r2/
+          - title:  Project site
+            icon: fas fa-exchange-alt
+            url: https://sysinfo.io/active-directory-migration-2003-2008-r2/
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Education # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #title:
+        #caption:
+        #sub_title:
+        #quote: >
+          
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - System Administration (x86_64)
+          - Network Administration (LAN/WAN)
+          - AWS (IAM, EC2, CloudWatch, VPC, S3, RDS, SES, Route53)
+          - Bugchecking & root cause analysis (sysinternals)
+          - VMware vSphere/vCenter/ESXi 5.x-6.x
+          - Active Directory
+          - Windows Server (2003-2019)
+          - Shell scripting (Bash/Python)
+          - Batch (csh) scripting (Wintel)
+          - Microsoft PowerShell
+          - Linux Administration
+          - DNS (BIND/Microsoft)
+          - MCSA, Network+, A+
 
   - title: A Little More About Me
     layout: text
