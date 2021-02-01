@@ -50,7 +50,7 @@ about_profile_image: images/profile-white.jpg
 about_content: | # this will include new lines to allow paragraphs
   Systems Administrator with 13 years of experience in the semiconductor, logistics, finance, web development and service industries with a natural unavoidable attention to detail.
 
-Certifications: <mark>MCSA</mark><mark>Network+</mark><mark>A+</mark>
+  Certifications: <mark>MCSA</mark>, <mark>Network+</mark>, <mark>A+</mark>
 
 content:
   - title: Projects # Title for the section
