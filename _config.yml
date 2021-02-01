@@ -15,13 +15,13 @@ website: https://sysinfo.io
 darkmode: false
 
 # Social links
-twitter_username: travisrunyard
+#twitter_username: travisrunyard
 github_username:  visualblind
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: trunyard
+#facebook_username: trunyard
 # flickr_username: jekyll
-instagram_username: jameswgrant
+#instagram_username: jameswgrant
 linkedin_username: travisrunyard
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -30,10 +30,10 @@ linkedin_username: travisrunyard
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,12 +45,12 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Summary
+about_profile_image: images/profile-white.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Systems Administrator with 13 years of experience in the semiconductor, logistics, finance, web development and service industries with a natural unavoidable attention to detail.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+Certifications: <mark>MCSA</mark><mark>Network+</mark><mark>A+</mark>
 
 content:
   - title: Projects # Title for the section
