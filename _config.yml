@@ -74,7 +74,9 @@ content:
         title: Robert Half
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Systems Administrator
+        sub_title: |
+        Systems Administrator
+        (contract)
         caption: November 2018 - December 2018
         quote: >
           Provided capacity to streamline and refine existing standard procedures including automation of end user Office365 email signature generation and deployment, reduce capital expenditure in AWS cloud, and focus on project-oriented tasks, which affect the whole organization.
