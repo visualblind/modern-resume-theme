@@ -231,7 +231,7 @@ content:
           A few years ago in a past life I got to perform an Active Directory migration from a 2003 functional level to 2008 R2 with ADMT 3.2 accompanied with an Exchange Server 2007 to 2010 migration over a single weekend. I thoroughly documented every step of the process and it's available at the link above. 
 
   - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         #title:
@@ -255,13 +255,13 @@ content:
           - MCSA, Network+, A+
           - Certifications: MCSA, Network+, A+
           - General:
-            Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route53), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello)
+            Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route53), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS
           - Client:
             Windows 3.x/NT/2K/XP/7/8/10, DOS, Apple OSX
           - Server:
             Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vCenter/vSphere 4.x-6.x, Citrix XenServer, KVM
           - Software:
-            Active Directory, PowerShell, DNS, DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
+            Active Directory, PowerShell, CA, DNS, DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
             SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
 
 
