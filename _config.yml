@@ -231,7 +231,7 @@ content:
           A few years ago in a past life I got to perform an Active Directory migration from a 2003 functional level to 2008 R2 with ADMT 3.2 accompanied with an Exchange Server 2007 to 2010 migration over a single weekend. I thoroughly documented every step of the process and it's available at the link above. 
 
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         #title:
@@ -253,6 +253,18 @@ content:
           - Linux Administration
           - DNS (BIND/Microsoft)
           - MCSA, Network+, A+
+          - Certifications: MCSA, Network+, A+
+        **General:
+          - Amazon Web Services AWS (EC2, VPC, S3, RDS, SES, Route 53,billing and cost calculation), Active Directory, SMTP, SAN, DNS, WINS, DHCP, Terminal Services/Remote Desktop Services, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence/JIRA/BitBucket/HipChat/Trello)
+        >Client OS:
+          - DOS, Ubuntu, Apple OSX, Windows NT/XP/7/8/10
+        Server OS:
+          - Windows Server (2003, 2008, 2012, 2016), Debian/Ubuntu, RedHat/CentOS/Fedora, VMWare ESXi/vCenter/vSphere 4x-6x
+        Software (NT):
+          - AWS Powershell, Active Directory, Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix XenServer, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe/Diagnostic Manager/Fragmentation Analyzer,  Internet Information Services (IIS), Microsoft SQL Server 2000-2016 (exp, std, ent), RAS, Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication, Microsoft System Center Configuration Manager (SCCM) 2012
+        Software (Linux):
+          - Nagios & NRPE, Zenoss, PRTG, Postfix, Ansible, Apache, NGINX, FPM-CGI, MySQL, MariaDB, PostgreSQL, SSH, EC2 API tools, Docker, Kubernetes, SolarWinds NPM, Syslog, bash, sysVinit, Systemd, sed, awk
+
 
   - title: A Little More About Me
     layout: text
