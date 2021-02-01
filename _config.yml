@@ -233,7 +233,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: left
+      #- layout: left
         #title:
         #caption:
         #sub_title:
