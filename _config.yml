@@ -10,7 +10,7 @@ name: Travis Runyard
 title: Systems Administrator
 email: travisrunyard@gmail.com
 phone: 714-260-7352
-website: https://sysinfo.io
+website: https://quad0.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -216,12 +216,12 @@ content:
     content:
       - layout: top-middle
         title: Active Directory & Exchange Migration Project
-        link: https://sysinfo.io/active-directory-migration-2003-2008-r2/
-        link_text: sysinfo.io/active-directory-migration-2003-2008-r2
+        link: https://quad0.com/active-directory-migration-2003-2008-r2/
+        link_text: quad0.com/active-directory-migration-2003-2008-r2
         additional_links:
           - title:  Project site
             icon: fas fa-server
-            url: https://sysinfo.io/active-directory-migration-2003-2008-r2/
+            url: https://quad0.com/active-directory-migration-2003-2008-r2/
           #- title:
           #icon:
           #url:
