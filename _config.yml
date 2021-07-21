@@ -246,7 +246,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Quad0.com was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
 
-      - layout: left
+      - layout: top-middle
         title: TravisFlix.com ‒ Private Media Streaming Service
         link: https://travisflix.com/
         link_text: travisflix.com
@@ -260,17 +260,16 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone/FUSE filesystem, GDrive, FreeNAS ZFS, Shell/Bash (see below), Netdata - [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages/Markdown - [help.travisflix.com](https://help.travisflix.com), FFmpeg, pwndrop, librespeed, Freshping uptime stats - [status.travisflix.com](https://status.travisflix.com), New Relic synthetic scripting - [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6.x-7.x
-
-          Bash Scripts:
-          [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)
-          [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)
-          [quad0.com/scripts/linux/rclone-sync-video.sh](https://quad0.com/scripts/linux/rclone-sync-video.sh)
-          [quad0.com/scripts/linux/remount_media_rclone.sh](https://quad0.com/scripts/linux/remount_media_rclone.sh)
-          [quad0.com/scripts/linux/gen_media_list2.sh](https://quad0.com/scripts/linux/gen_media_list2.sh)
-          [quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh](https://quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh)
-          [quad0.com/scripts/linux/bashre_id3v2.sh](https://quad0.com/scripts/linux/bashre_id3v2.sh)
-          [quad0.com/scripts/linux/rename_examples.sh](https://quad0.com/scripts/linux/rename_examples.sh)
+          Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone/FUSE filesystem, GDrive, FreeNAS ZFS, Shell/Bash (see below), Netdata - [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages/Markdown - [help.travisflix.com](https://help.travisflix.com), FFmpeg, pwndrop, librespeed, Freshping uptime stats - [status.travisflix.com](https://status.travisflix.com), New Relic synthetic scripting - [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6.x-7.x<br>
+          Bash Scripts:<br>
+          [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)<br>
+          [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)<br>
+          [quad0.com/scripts/linux/rclone-sync-video.sh](https://quad0.com/scripts/linux/rclone-sync-video.sh)<br>
+          [quad0.com/scripts/linux/remount_media_rclone.sh](https://quad0.com/scripts/linux/remount_media_rclone.sh)<br>
+          [quad0.com/scripts/linux/gen_media_list2.sh](https://quad0.com/scripts/linux/gen_media_list2.sh)<br>
+          [quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh](https://quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh)<br>
+          [quad0.com/scripts/linux/bashre_id3v2.sh](https://quad0.com/scripts/linux/bashre_id3v2.sh)<br>
+        - [quad0.com/scripts/linux/rename_examples.sh](https://quad0.com/scripts/linux/rename_examples.sh)
 
   - title: Skills
     layout: text
