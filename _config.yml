@@ -277,7 +277,7 @@ content:
       - <mark>Certifications:</mark>
       MCSA, Network+, A+
       - <mark>General:</mark>
-      System Administration (x86_64), Network Administration (LAN/WAN), Linux Administration, Shell scripting (Bash/sh, Python), Batch (csh) scripting (Wintel), Amazon Web Services AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS, Bugchecking & root cause analysis (sysinternals)
+      System Administration (x86_64), Network Administration (LAN/WAN), Linux Administration, Regular Expressions (Regex), Shell Scripting (Bash/sh, Python), PowerShell & Batch Scripting (bat,csh,com), Amazon Web Services AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS, Sysinternals, Bug-checking
       - <mark>Server:</mark>
       Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vSphere/vCenter 4.x-6.x, Citrix XenServer, KVM
       - <mark>Client:</mark>
