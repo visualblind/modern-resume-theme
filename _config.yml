@@ -235,7 +235,7 @@ content:
         link: https://quad0.com/
         link_text: quad0.com
         additional_links:
-          - title:  Project site
+          - title:  Quad0.com
             icon: fas fa-blog
             url: https://quad0.com/
           #- title:
@@ -262,13 +262,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone/FUSE filesystem, GDrive, FreeNAS ZFS, Shell/Bash (see below), Netdata - [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages/Markdown - [help.travisflix.com](https://help.travisflix.com), FFmpeg, pwndrop, librespeed, Freshping uptime stats - [status.travisflix.com](https://status.travisflix.com), New Relic synthetic scripting - [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6.x-7.x
           Bash Scripts:
-        - [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)
-        - [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)
-        - [quad0.com/scripts/linux/rclone-sync-video.sh](https://quad0.com/scripts/linux/rclone-sync-video.sh)
-        - [quad0.com/scripts/linux/remount_media_rclone.sh](https://quad0.com/scripts/linux/remount_media_rclone.sh)
-        - [quad0.com/scripts/linux/gen_media_list2.sh](https://quad0.com/scripts/linux/gen_media_list2.sh)
-        - [quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh](https://quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh)
-        - [quad0.com/scripts/linux/bashre_id3v2.sh](https://quad0.com/scripts/linux/bashre_id3v2.sh)
+          [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)
+          [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)
+          [quad0.com/scripts/linux/rclone-sync-video.sh](https://quad0.com/scripts/linux/rclone-sync-video.sh)
+          [quad0.com/scripts/linux/remount_media_rclone.sh](https://quad0.com/scripts/linux/remount_media_rclone.sh)
+          [quad0.com/scripts/linux/gen_media_list2.sh](https://quad0.com/scripts/linux/gen_media_list2.sh)
+          [quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh](https://quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh)
+          [quad0.com/scripts/linux/bashre_id3v2.sh](https://quad0.com/scripts/linux/bashre_id3v2.sh)
+          [quad0.com/scripts/linux/rename_examples.sh](https://quad0.com/scripts/linux/rename_examples.sh)
 
   - title: Skills
     layout: text
