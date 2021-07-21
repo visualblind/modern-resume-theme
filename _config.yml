@@ -261,7 +261,6 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone/FUSE filesystem, GDrive, FreeNAS ZFS, Shell/Bash (see below), Netdata - [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages/Markdown - [help.travisflix.com](https://help.travisflix.com), FFmpeg, pwndrop, librespeed, Freshping uptime stats - [status.travisflix.com](https://status.travisflix.com), New Relic synthetic scripting - [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6.x-7.x
-
           Bash Scripts:
         * [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)
         * [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)
