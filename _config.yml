@@ -247,7 +247,7 @@ content:
           Quad0.com was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
 
       - layout: top-middle
-        title: TravisFlix.com ‒ Private 20TB+ Media Streaming Service
+        title: TravisFlix.com - Private Media Streaming Service
         link: https://travisflix.com/
         link_text: travisflix.com
         additional_links:
