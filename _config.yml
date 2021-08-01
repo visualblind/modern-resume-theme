@@ -10,7 +10,7 @@ name: Travis Runyard
 title: Systems Administrator
 email: travisrunyard@gmail.com
 phone: 714-260-7352
-website: https://quad0.com
+website: quad0.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,7 +49,7 @@ linkedin_username: travisrunyard
 about_title: Summary
 about_profile_image: images/profile-white.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Systems Administrator with 13 years of experience in the semiconductor, logistics, finance, web development and service industries with an unavoidable attention to detail.
+  Systems Administrator with 10 years of experience in the semiconductor, logistics, finance, web development and service industries with an unavoidable attention to detail.
 
   Certifications: <mark>MCSA</mark>, <mark>Network+</mark>, <mark>A+</mark>
 
@@ -260,7 +260,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone/FUSE filesystem, GDrive, FreeNAS ZFS, Shell/Bash (see below), Netdata - [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages/Markdown - [help.travisflix.com](https://help.travisflix.com), FFmpeg, Ansible, Freshping uptime stats - [status.travisflix.com](https://status.travisflix.com), New Relic synthetic scripting - [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6.x-7.x<br>
+          Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone, Google Drive, FreeNAS/ZFS, Bash/shell (links below), Netdata — [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages, Markdown — [help.travisflix.com](https://help.travisflix.com), Ansible, Freshping — [status.travisflix.com](https://status.travisflix.com), New Relic synthetic monitoring — [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6–7.x<br>
           Bash Scripts:<br>
           [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)<br>
           [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)<br>
@@ -279,11 +279,11 @@ content:
       - <mark>General:</mark>
       System Administration (x86_64), Network Administration (LAN/WAN), Linux Administration, Regular Expressions (Regex), Shell Scripting (Bash/sh, Python), PowerShell & Batch Scripting (bat,csh,com), Amazon Web Services AWS (IAM, EC2, VPC, S3, RDS, SES, Route53, CloudWatch), SMTP, SAN, Continuous Integration, Infrastructure as Code, New Relic, Atlassian Suite (Confluence, JIRA, BitBucket, HipChat, Trello), SSL/TLS, Sysinternals, Bug-checking
       - <mark>Server:</mark>
-      Windows Server (2000-2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vSphere/vCenter 4.x-6.x, Citrix XenServer, KVM
+      Windows Server (2000–2019), Debian/Ubuntu/RedHat/Fedora/CentOS, FreeBSD, VMware ESXi/vSphere/vCenter 4–6.x, Citrix XenServer, KVM
       - <mark>Client:</mark>
       Windows 3.x/NT/2K/XP/7/8/10, DOS, Apple OSX
       - <mark>Software:</mark>
-      Active Directory, PowerShell, CA, DNS (BIND/Microsoft), DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000-2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
+      Active Directory, PowerShell, CA, DNS (BIND/Microsoft), DHCP, WINS, Terminal Services (RDS), Blackberry BES, CA ARCserve Backup, CA eTrust Server, Citrix Metaframe/Presentation Server/XenApp 6.5, Exchange Server 2010-2013, Idera SQLSafe, Idera Diagnostic Manager, IDera Fragmentation Analyzer,  Internet Information Services/IIS, Microsoft SQL Server 2000–2016 (all editions), Sysinternals, Trend Micro Server, Veritas BackupExec, Veeam Backup and Replication
       SolarWinds Network Performance Monitor, UpGuard Configuration Management DB, Nagios, NRPE, Zenoss, PRTG, EC2 api tools, Postfix, Ansible, Apache, NGINX, FPM, MySQL/MariaDB, PostgreSQL, Docker containers, Syslog
 
       <span style="display:block;text-align:center">![mcsa](/images/Microsoft_MCSA_TRunyard_400px.jpg)</span>
