@@ -260,16 +260,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Technologies currently used in the operation of the site include: Linode, Debian, Docker, Jellyfin, NGINX, Rclone, Google Drive, FreeNAS/ZFS, Bash/shell (links below), Netdata — [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages, Markdown — [help.travisflix.com](https://help.travisflix.com), Ansible, Freshping — [status.travisflix.com](https://status.travisflix.com), New Relic synthetic monitoring — [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), vSphere/ESXi 6–7.x<br>
-          Bash Scripts:<br>
-          [quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-transcode-acodec.sh)<br>
-          [quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh](https://quad0.com/scripts/linux/ffmpeg-inotify-transcode-acodec.sh)<br>
-          [quad0.com/scripts/linux/rclone-sync-video.sh](https://quad0.com/scripts/linux/rclone-sync-video.sh)<br>
-          [quad0.com/scripts/linux/remount_media_rclone.sh](https://quad0.com/scripts/linux/remount_media_rclone.sh)<br>
-          [quad0.com/scripts/linux/gen_media_list2.sh](https://quad0.com/scripts/linux/gen_media_list2.sh)<br>
-          [quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh](https://quad0.com/scripts/linux/find-regex-posix-extended-extrafiles-delete.sh)<br>
-          [quad0.com/scripts/linux/bashre_id3v2.sh](https://quad0.com/scripts/linux/bashre_id3v2.sh)<br>
-          [quad0.com/scripts/linux/rename_examples.sh](https://quad0.com/scripts/linux/rename_examples.sh)
+          Software stack — PaaS (Linode), Debian VM's running docker-compose'd containers running the Jellyfin media server and web UI, NGINX, Rclone encrypted storage, Google Drive, shell scripts (sh,bash), Netdata — [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages — [help.travisflix.com](https://travisflix.com/help/#/faq) in markdown, Ansible, Freshping status page — [status.travisflix.com](https://status.travisflix.com), New Relic synthetic browser monitoring — [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), VMware vSphere (ESXi 7), FreeNAS (Truenas 12) with VM PCI/HBA pass-thru
 
   - title: Skills
     layout: text
