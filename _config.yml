@@ -260,7 +260,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Software stack — PaaS (Linode), Debian VM's running docker-compose'd containers running the Jellyfin media server and web UI, NGINX, Rclone encrypted storage, Google Drive, shell scripts (sh,bash), Netdata — [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages — [help.travisflix.com](https://travisflix.com/help/#/faq) in markdown, Ansible, Freshping status page — [status.travisflix.com](https://status.travisflix.com), New Relic synthetic browser monitoring — [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), VMware vSphere (ESXi 7), FreeNAS (Truenas 12) with VM PCI/HBA pass-thru
+          Software stack — PaaS (Linode), Debian VM's with docker-compose containers running Jellyfin, NGINX, Rclone encrypted storage, Google Drive, shell scripts (sh,bash), Netdata — [statistics.travisflix.com](https://statistics.travisflix.com), Node.js, Github Pages [help.travisflix.com](https://travisflix.com/help/#/faq), Ansible, Freshping status page — [status.travisflix.com](https://status.travisflix.com), New Relic synthetic browser monitoring — [synthetics.newrelic.com/report/16zOp](https://synthetics.newrelic.com/report/16zOp), VMware vSphere (ESXi 7), FreeNAS (Truenas 12) with VM PCI/HBA pass-thru
 
   - title: Skills
     layout: text
