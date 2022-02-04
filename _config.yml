@@ -216,12 +216,12 @@ content:
     content:
       - layout: top-middle
         title: Active Directory & Exchange Migration Project
-        link: https://quad0.com/active-directory-migration-2003-2008-r2/
-        link_text: quad0.com/active-directory-migration-2003-2008-r2
+        link: https://4kib.com/active-directory-migration-2003-2008-r2/
+        link_text: 4kib.com/active-directory-migration-2003-2008-r2
         additional_links:
           - title:  Project site
             icon: fas fa-server
-            url: https://quad0.com/active-directory-migration-2003-2008-r2/
+            url: https://4kib.com/active-directory-migration-2003-2008-r2/
           #- title:
           #icon:
           #url:
@@ -232,12 +232,12 @@ content:
 
       - layout: top-middle
         title: Technical Blog
-        link: https://quad0.com/
-        link_text: quad0.com
+        link: https://4kib.com/
+        link_text: 4kib.com
         additional_links:
           - title:  Quad0.com
             icon: fas fa-blog
-            url: https://quad0.com/
+            url: https://4kib.com/
           #- title:
           #icon:
           #url:
