@@ -235,7 +235,7 @@ content:
         link: https://4kib.com/
         link_text: 4kib.com
         additional_links:
-          - title:  Quad0.com
+          - title:  4kib.com
             icon: fas fa-blog
             url: https://4kib.com/
           #- title:
@@ -244,7 +244,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Quad0.com was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
+          4kib.com was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
 
       - layout: top-middle
         title: TravisFlix.com ‒ Private Media Streaming Service
