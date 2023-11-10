@@ -10,7 +10,7 @@ name: Travis Runyard
 title: Systems Administrator
 email: travisrunyard@gmail.com
 phone: 714-260-7352
-website: blog.travisrunyard.us
+website: blog.travisflix.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -216,12 +216,12 @@ content:
     content:
       - layout: top-middle
         title: Active Directory & Exchange Migration Project
-        link: https://blog.travisrunyard.us/active-directory-migration-2003-2008-r2/
-        link_text: blog.travisrunyard.us/active-directory-migration-2003-2008-r2
+        link: https://blog.travisflix.com/active-directory-migration-2003-2008-r2/
+        link_text: blog.travisflix.com/active-directory-migration-2003-2008-r2
         additional_links:
           - title:  Project site
             icon: fas fa-server
-            url: https://blog.travisrunyard.us/active-directory-migration-2003-2008-r2/
+            url: https://blog.travisflix.com/active-directory-migration-2003-2008-r2/
           #- title:
           #icon:
           #url:
@@ -232,19 +232,19 @@ content:
 
       - layout: top-middle
         title: Technical Blog
-        link: https://blog.travisrunyard.us/
-        link_text: blog.travisrunyard.us
+        link: https://blog.travisflix.com/
+        link_text: blog.travisflix.com
         additional_links:
-          - title:  blog.travisrunyard.us
+          - title:  blog.travisflix.com
             icon: fas fa-blog
-            url: https://blog.travisrunyard.us/
+            url: https://blog.travisflix.com/
           #- title:
           #icon:
           #url:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          blog.travisrunyard.us was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
+          blog.travisflix.com was created as a project to test WordPress, initially. It has evolved through hacking attempts, environment migrations, hardware failures, and is continuing to transform into a small but valuable repository of technical articles, systems-related documentation along with downloadable scripts. The goal is to provide you with info worthy of taking up a bookmark if you are a Sysadmin working on the x86_64 platform.
 
       - layout: top-middle
         title: TravisFlix.com ‒ Private Media Streaming Service
